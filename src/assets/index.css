@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .active {
+      background-color:#f7a3a3;
+    }
+  }
